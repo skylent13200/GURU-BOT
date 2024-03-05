@@ -61,8 +61,8 @@ ${usedPrefix}help
       }
 }
 handler.help = ['join <chat.whatsapp.com> <dias>']
-handler.tags = ['owner']
 handler.command = ['join', 'invite'] 
+handler.register = true;
 
 //handler.owner = true
 
